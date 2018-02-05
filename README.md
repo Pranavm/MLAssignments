@@ -10,11 +10,11 @@ python ID3.py L K trainingSetFilePath validationSetFilePath testSetFilePath toPr
 
 The arguments represent the following
 
-L, K 					- The parameters for the post pruning algorithm
-trainingSetFilePath 	- The path to the csv file containing training data
-validationSetFilePath 	- The path to the csv file containing the validation set
-testSetFilePath 		- The path to the csv file containing the test set
-toPrint					- Whether to print the decision tree or not
+L, K 					- The parameters for the post pruning algorithm  
+trainingSetFilePath 	- The path to the csv file containing training data  
+validationSetFilePath 	- The path to the csv file containing the validation set  
+testSetFilePath 		- The path to the csv file containing the test set  
+toPrint					- Whether to print the decision tree or not  
 
 ### The accuracy on the data sets provided
 | DataSet | Heuristic | Accuracy |  
