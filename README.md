@@ -30,4 +30,24 @@ Accuracy on the test set = 72.5
 
 #### After post pruning
 | DataSet | L | K | Heuristic | Accuracy |  
-| ------- | --- | --- | -------- | ------- |
+| ------- | --- | --- | -------- | ------- |  
+|1|10|10|"Information Gain"|73.16|  
+|1|10|10|"Variance Impurity"|73.16|  
+|1|10|10|"Information Gain"|73.16|  
+|1|10|10|"Variance Impurity"|73.16|  
+|1|10|10|"Information Gain"|73.16|  
+|1|10|10|"Variance Impurity"|73.16|  
+|1|10|10|"Information Gain"|73.16|  
+|1|10|10|"Variance Impurity"|73.16|  
+|1|10|10|"Information Gain"|73.16|  
+|1|10|10|"Variance Impurity"|73.16|  
+|1|10|10|"Information Gain"|73.16|  
+|1|10|10|"Variance Impurity"|73.16|  
+|1|10|10|"Information Gain"|73.16|  
+|1|10|10|"Variance Impurity"|73.16|  
+|1|10|10|"Information Gain"|73.16|  
+|1|10|10|"Variance Impurity"|73.16|  
+|1|10|10|"Information Gain"|73.16|  
+|1|10|10|"Variance Impurity"|73.16|  
+|1|10|10|"Information Gain"|73.16|  
+|1|10|10|"Variance Impurity"|73.16|  
