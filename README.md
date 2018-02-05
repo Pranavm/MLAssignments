@@ -19,8 +19,10 @@ toPrint					- Whether to print the decision tree or not
 ### The accuracy on the data sets provided
 | DataSet | Heuristic | Accuracy |  
 | ------- | -------- | ------- |
-|1|75.85|75.35|
-|2|72.33|72.5|  
+|1|Information Gain|75.85|
+|1|Variance Impurity|75.35|
+|1|Information Gain|72.33|
+|1|Variance Impurity|72.5|
 
 #### After post pruning
 | DataSet | L | K | Heuristic | Accuracy |  
